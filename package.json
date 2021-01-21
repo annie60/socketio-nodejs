@@ -16,10 +16,10 @@
     "mongoose": "^4.10.8",
     "node-restful": "^0.2.6",
     "nodemon": "^1.11.0",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.4.0"
   },
   "dependencies": {
     "express": "^3.5.3",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.4.0"
   }
 }
